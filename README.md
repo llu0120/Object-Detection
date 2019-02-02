@@ -6,7 +6,7 @@
 
 There are 4 .py files and 1 .pynb files in the project. 
 
-1.	hw1_label.ipynb is the file that I label my training set. 
+1.	label.py is the file that I label my training set. 
 2.	param.py is the file that I compute different classes’ mean and covariance. 
 3.	Gaussian.py is my test code about the segmentation part and it will load the parameters from param.py.
 4.	bounding_box.py is my test code about the bounding box part and it will load the saved mask_img from Gaussian.py.
