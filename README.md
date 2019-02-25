@@ -10,7 +10,7 @@ There are 4 .py files and 1 .pynb files in the project.
 2.	param.py is the file that I compute different classes’ mean and covariance. 
 3.	Gaussian.py is my test code about the segmentation part and it will load the parameters from param.py.
 4.	bounding_box.py is my test code about the bounding box part and it will load the saved mask_img from Gaussian.py.
-5.	barrel_dector.py is the file that I submitted to autograder, it is the combination and some modification of Gaussian.py and bounding_box.py.
+5.	barrel_dector.py is the file that I submitted to autograder, it is the combination and some modification of Gaussian.py and bounding_box.py in class object.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
